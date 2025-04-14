@@ -206,7 +206,8 @@ private boolean isCellNumberValid(String cellNumber) {
         });
     }
 
-    // Variables declaration - do not modify                     
+    // Variables declaration - do not modify
+   
     private javax.swing.JButton bsignin;
     private javax.swing.JButton jButton2;
     private javax.swing.JLabel jLabel3;
